@@ -11,7 +11,6 @@ It is a web application developed to provide users with an interactive and engag
 - **Rich Content**: Dive into a rich collection of content carefully curated to entertain and educate.
 
 ## Usage
-- Visit the [Slide-To-Watch website](https://swayam04600.github.io/Slide-down/).
 - Explore the various sections and features of the application.
 - Interact with the content using the provided controls and gestures.
 - Customize your experience using the settings menu.
